@@ -1,0 +1,10 @@
+{
+  "name": "grafos",
+  "version": "1.0.0",
+  "description": "Algoritmos de grafos en TS",
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
